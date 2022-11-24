@@ -1,0 +1,15 @@
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/obj/Debug/net7.0/sde-2-facade.csproj.AssemblyReference.cache
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/obj/Debug/net7.0/sde-2-facade.GeneratedMSBuildEditorConfig.editorconfig
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/obj/Debug/net7.0/sde-2-facade.AssemblyInfoInputs.cache
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/obj/Debug/net7.0/sde-2-facade.AssemblyInfo.cs
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/obj/Debug/net7.0/sde-2-facade.csproj.CoreCompileInputs.cache
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/bin/Debug/net7.0/sde-2-facade
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/bin/Debug/net7.0/sde-2-facade.deps.json
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/bin/Debug/net7.0/sde-2-facade.runtimeconfig.json
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/bin/Debug/net7.0/sde-2-facade.dll
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/bin/Debug/net7.0/sde-2-facade.pdb
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/obj/Debug/net7.0/sde-2-facade.dll
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/obj/Debug/net7.0/refint/sde-2-facade.dll
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/obj/Debug/net7.0/sde-2-facade.pdb
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/obj/Debug/net7.0/sde-2-facade.genruntimeconfig.cache
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-2-facade/obj/Debug/net7.0/ref/sde-2-facade.dll
