@@ -1,0 +1,15 @@
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/bin/Debug/net7.0/sde-3-strategy
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/bin/Debug/net7.0/sde-3-strategy.deps.json
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/bin/Debug/net7.0/sde-3-strategy.runtimeconfig.json
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/bin/Debug/net7.0/sde-3-strategy.dll
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/bin/Debug/net7.0/sde-3-strategy.pdb
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/obj/Debug/net7.0/sde-3-strategy.csproj.AssemblyReference.cache
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/obj/Debug/net7.0/sde-3-strategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/obj/Debug/net7.0/sde-3-strategy.AssemblyInfoInputs.cache
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/obj/Debug/net7.0/sde-3-strategy.AssemblyInfo.cs
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/obj/Debug/net7.0/sde-3-strategy.csproj.CoreCompileInputs.cache
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/obj/Debug/net7.0/sde-3-strategy.dll
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/obj/Debug/net7.0/refint/sde-3-strategy.dll
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/obj/Debug/net7.0/sde-3-strategy.pdb
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/obj/Debug/net7.0/sde-3-strategy.genruntimeconfig.cache
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-3-strategy/obj/Debug/net7.0/ref/sde-3-strategy.dll
