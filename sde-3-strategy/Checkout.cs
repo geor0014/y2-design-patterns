@@ -1,25 +1,35 @@
-public class Checkout {
+public class Checkout
+{
     private SalesAction salesAction;
 
-    public Checkout(SalesAction salesAction) {
+    public Checkout(SalesAction salesAction)
+    {
         this.salesAction = salesAction;
     }
 
-    public void nextCustomer(Customer customer){
-        DiscountCalculator discountCalculator;
+    public void nextCustomer(Customer customer)
+    {
+        DiscountCalculator discountCalculator = new DiscountCalculator(customer);
 
         //init checkout 
-        if(salesAction == SalesAction.Christmas){
-            discountCalculator = new DiscountCalculator(customer, new ChristMasDiscount());
+        if (salesAction == SalesAction.Christmas)
+        {
+            // discountCalculator = new DiscountCalculator(customer, new ChristMasDiscount());
+            discountCalculator.setDiscount(new ChristMasDiscount());
+
         }
-        else if(salesAction == SalesAction.BlackFriday){
-            discountCalculator = new DiscountCalculator(customer, new BlackFridayDiscount());
+        else if (salesAction == SalesAction.BlackFriday)
+        {
+            // discountCalculator = new DiscountCalculator(customer, new BlackFridayDiscount());
+            discountCalculator.setDiscount(new BlackFridayDiscount());
         }
-        else if (customer.isRegular()){
-            discountCalculator = new DiscountCalculator(customer, new RegularCustomerDiscount());
-        } else {
-            discountCalculator = new DiscountCalculator(customer, new NoDiscount());
+        else if (customer.isRegular())
+        {
+            // discountCalculator = new DiscountCalculator(customer, new RegularCustomerDiscount());
+            discountCalculator.setDiscount(new RegularCustomerDiscount());
         }
+
+
         // welcome customer 
         string welcome = "Welcome " + customer.getName() + "!";
 
