@@ -1,0 +1,15 @@
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/bin/Debug/net7.0/sde-4-builder
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/bin/Debug/net7.0/sde-4-builder.deps.json
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/bin/Debug/net7.0/sde-4-builder.runtimeconfig.json
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/bin/Debug/net7.0/sde-4-builder.dll
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/bin/Debug/net7.0/sde-4-builder.pdb
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/obj/Debug/net7.0/sde-4-builder.csproj.AssemblyReference.cache
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/obj/Debug/net7.0/sde-4-builder.GeneratedMSBuildEditorConfig.editorconfig
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/obj/Debug/net7.0/sde-4-builder.AssemblyInfoInputs.cache
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/obj/Debug/net7.0/sde-4-builder.AssemblyInfo.cs
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/obj/Debug/net7.0/sde-4-builder.csproj.CoreCompileInputs.cache
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/obj/Debug/net7.0/sde-4-builder.dll
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/obj/Debug/net7.0/refint/sde-4-builder.dll
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/obj/Debug/net7.0/sde-4-builder.pdb
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/obj/Debug/net7.0/sde-4-builder.genruntimeconfig.cache
+/home/georgiev098/Code/University/year-2/quart-2/design-patterns/sde-4-builder/obj/Debug/net7.0/ref/sde-4-builder.dll
